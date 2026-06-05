@@ -22,9 +22,10 @@ To support this real-world operational scale, the platform is built as a high-pe
 * **Frontend Engine:** React, TypeScript, Tailwind CSS
 * **Backend & Database (BaaS):** Supabase (PostgreSQL relational engine, Row-Level Security isolation, automated multi-tenant triggers, and custom security gateway functions)
 * **Media Processing:** Client-side hardware-accelerated Canvas scaling pipeline
-* **AI-Assisted Prototyping:**
-  * Full-stack continuous integration and rapid UI testing deployed via Lovable.
-  * System design mapping, optimization strategies, and PostgreSQL compilation assisted by Gemini.
+* **AI-Assisted Prototyping and Architecture:**
+  * Accelerated MVP development using Lovable for rapid full-stack prototyping.
+  * Leveraged Gemini to migrate and translate legacy TSQL patterns into optimized PostgreSQL.
+  * Utilized AI as a planning and analysis tool to critique architectural roadmaps.
 
 ---
 
