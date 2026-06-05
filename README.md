@@ -10,6 +10,8 @@ The concept was born from a consumer-first problem: the need for a unified platf
 
 To support this real-world operational scale, the platform is built as a high-performance, multi-tenant SaaS architecture. With a dual emphasis on robust database integrity and a context-aware user experience, the application bridges complex backend relational mapping with razor-sharp frontend control.
 
+---
+
 > ### 🔒 Code Privacy & Intellectual Property Notice
 > The core codebase, database schemas, and proprietary business relations for this restaurant optimization engine sit securely inside a private repository. This public repository serves as a system design portfolio piece detailing the multi-tenant security architecture, asset processing pipelines, and relational database paradigms used to construct the platform.
 
